@@ -17,3 +17,7 @@ With this code you can generate the color and black and white histogram of any i
 **2. Now you can press the Second button Generate histogram RGB**
 
 ![alt text](https://github.com/Ibarguen/Histogram-Generator-Opencv/blob/master/interface%204.PNG)
+
+**3. If you wish generate the histogram black and white of the same image you can press the third button "CONVERTE RGB TO B/W" after Press the button Generate Histogram B/W
+![alt text](https://github.com/Ibarguen/Histogram-Generator-Opencv/blob/master/interface%205.PNG)
+
